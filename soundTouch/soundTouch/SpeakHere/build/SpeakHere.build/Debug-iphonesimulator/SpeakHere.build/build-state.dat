@@ -1,0 +1,1304 @@
+TSpeakHere
+v7
+r0
+t331557295.089864
+cCheck dependencies
+cProcessInfoPlistFile /Users/niko/Documents/IPhone/SpeakHere/build/Debug-iphonesimulator/SpeakHere.app/Info.plist Info.plist
+cCompileXIB /Users/niko/Documents/IPhone/SpeakHere/MainWindow.xib
+cCompileXIB /Users/niko/Documents/IPhone/SpeakHere/SpeakHereViewController.xib
+cCpResource build/Debug-iphonesimulator/SpeakHere.app/en.lproj/speaker_grill.png en.lproj/speaker_grill.png
+cCpResource build/Debug-iphonesimulator/SpeakHere.app/en.lproj/soundbar_plate_mono.png en.lproj/soundbar_plate_mono.png
+cCpResource build/Debug-iphonesimulator/SpeakHere.app/en.lproj/icon.png en.lproj/icon.png
+cCpResource build/Debug-iphonesimulator/SpeakHere.app/Default.png Default.png
+cProcessPCH /var/folders/Ez/EzrAzSVrESe80I5kN5JvEE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SpeakHere_Prefix-buqyqlxbvqtijabonijqmkeenwrf/SpeakHere_Prefix.pch.gch SpeakHere_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH++ /var/folders/Ez/EzrAzSVrESe80I5kN5JvEE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SpeakHere_Prefix-ccqlskjstkiuvydjrpebbfamyfgg/SpeakHere_Prefix.pch.gch SpeakHere_Prefix.pch normal i386 objective-c++ com.apple.compilers.gcc.4_2
+cProcessPCH++ /var/folders/Ez/EzrAzSVrESe80I5kN5JvEE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SpeakHere_Prefix-dwfpgibokpfscdberxwdhganxubt/SpeakHere_Prefix.pch.gch SpeakHere_Prefix.pch normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/Objects-normal/i386/main.o /Users/niko/Documents/IPhone/SpeakHere/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/Objects-normal/i386/SpeakHereAppDelegate.o /Users/niko/Documents/IPhone/SpeakHere/Classes/SpeakHereAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/Objects-normal/i386/SpeakHereViewController.o /Users/niko/Documents/IPhone/SpeakHere/Classes/SpeakHereViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/Objects-normal/i386/SpeakHereController.o /Users/niko/Documents/IPhone/SpeakHere/Classes/SpeakHereController.mm normal i386 objective-c++ com.apple.compilers.gcc.4_2
+cCompileC build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/Objects-normal/i386/AQLevelMeter.o /Users/niko/Documents/IPhone/SpeakHere/AudioViews/AQLevelMeter.mm normal i386 objective-c++ com.apple.compilers.gcc.4_2
+cCompileC build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/Objects-normal/i386/GLLevelMeter.o /Users/niko/Documents/IPhone/SpeakHere/AudioViews/GLLevelMeter.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/Objects-normal/i386/LevelMeter.o /Users/niko/Documents/IPhone/SpeakHere/AudioViews/LevelMeter.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/Objects-normal/i386/CADebugMacros.o /Users/niko/Documents/IPhone/SpeakHere/iPublicUtility/CADebugMacros.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/Objects-normal/i386/CAStreamBasicDescription.o /Users/niko/Documents/IPhone/SpeakHere/iPublicUtility/CAStreamBasicDescription.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/Objects-normal/i386/CAXException.o /Users/niko/Documents/IPhone/SpeakHere/iPublicUtility/CAXException.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/Objects-normal/i386/AQPlayer.o /Users/niko/Documents/IPhone/SpeakHere/Classes/AQPlayer.mm normal i386 objective-c++ com.apple.compilers.gcc.4_2
+cCompileC build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/Objects-normal/i386/AQRecorder.o /Users/niko/Documents/IPhone/SpeakHere/Classes/AQRecorder.mm normal i386 objective-c++ com.apple.compilers.gcc.4_2
+cCompileC build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/Objects-normal/i386/MeterTable.o /Users/niko/Documents/IPhone/SpeakHere/Classes/MeterTable.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/Objects-normal/i386/AAFilter.o /Users/niko/Documents/IPhone/SpeakHere/soundtouch/AAFilter.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/Objects-normal/i386/BPMDetect.o /Users/niko/Documents/IPhone/SpeakHere/soundtouch/BPMDetect.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/Objects-normal/i386/cpu_detect_x86_gcc.o /Users/niko/Documents/IPhone/SpeakHere/soundtouch/cpu_detect_x86_gcc.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/Objects-normal/i386/FIFOSampleBuffer.o /Users/niko/Documents/IPhone/SpeakHere/soundtouch/FIFOSampleBuffer.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/Objects-normal/i386/FIRFilter.o /Users/niko/Documents/IPhone/SpeakHere/soundtouch/FIRFilter.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/Objects-normal/i386/mmx_optimized.o /Users/niko/Documents/IPhone/SpeakHere/soundtouch/mmx_optimized.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/Objects-normal/i386/PeakFinder.o /Users/niko/Documents/IPhone/SpeakHere/soundtouch/PeakFinder.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/Objects-normal/i386/RateTransposer.o /Users/niko/Documents/IPhone/SpeakHere/soundtouch/RateTransposer.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/Objects-normal/i386/SoundTouch.o /Users/niko/Documents/IPhone/SpeakHere/soundtouch/SoundTouch.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/Objects-normal/i386/sse_optimized.o /Users/niko/Documents/IPhone/SpeakHere/soundtouch/sse_optimized.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/Objects-normal/i386/TDStretch.o /Users/niko/Documents/IPhone/SpeakHere/soundtouch/TDStretch.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cLd /Users/niko/Documents/IPhone/SpeakHere/build/Debug-iphonesimulator/SpeakHere.app/SpeakHere normal i386
+cGenerateDSYMFile /Users/niko/Documents/IPhone/SpeakHere/build/Debug-iphonesimulator/SpeakHere.app.dSYM /Users/niko/Documents/IPhone/SpeakHere/build/Debug-iphonesimulator/SpeakHere.app/SpeakHere
+cTouch /Users/niko/Documents/IPhone/SpeakHere/build/Debug-iphonesimulator/SpeakHere.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004CC1224600000000001EA9C0
+t1287725638
+s2009536
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioQueue.h
+c000000004CC1222F00000000000126F8
+t1287725615
+s75512
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioToolbox.h
+c000000004CC1222F0000000000000A23
+t1287725615
+s2595
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreAudio.framework/Headers/CoreAudioTypes.h
+c000000004CC12203000000000001032E
+t1287725571
+s66350
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c000000004CC121B1000000000023EAC0
+t1287725489
+s2353856
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFByteOrder.h
+c000000004CC1219E0000000000001983
+t1287725470
+s6531
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h
+c000000004CC1219F0000000000000AB3
+t1287725471
+s2739
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGL.h
+c000000004CC12308000000000000094F
+t1287725832
+s2383
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGLDrawable.h
+c000000004CC123080000000000000A61
+t1287725832
+s2657
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/gl.h
+c000000004CC123080000000000009369
+t1287725832
+s37737
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/glext.h
+c000000004CC123080000000000003C4A
+t1287725832
+s15434
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c000000004CC1230E0000000000019D40
+t1287725838
+s105792
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004CC1233C00000000000000C4
+t1287725884
+s196
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004CC12431000000000015CDB0
+t1287726129
+s1428912
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/ConditionalMacros.h
+c000000004CB3FA080000000000006860
+t1286863368
+s26720
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/assert.h
+c000000004CB3E4860000000000000DCB
+t1286857862
+s3531
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/ctype.h
+c000000004CB3E4860000000000002C18
+t1286857862
+s11288
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/libkern/OSAtomic.h
+c000000004CB3E4860000000000002519
+t1286857862
+s9497
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/math.h
+c000000004A5C14A000000000000004F1
+t1247548576
+s1265
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/memory.h
+c000000004CB3E4860000000000000765
+t1286857862
+s1893
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/pthread.h
+c000000004CB3E48600000000000038F0
+t1286857862
+s14576
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/stdio.h
+c000000004CB3E48600000000000040AC
+t1286857862
+s16556
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/stdlib.h
+c000000004CB3E4860000000000002DF5
+t1286857862
+s11765
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/string.h
+c000000004CB3E4860000000000001731
+t1286857862
+s5937
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/syslog.h
+c000000004CB3E48600000000000003EC
+t1286857862
+s1004
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/float.h
+c000000004A1198340000000000001538
+t1242667060
+s5432
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/limits.h
+c000000004A1198340000000000000C7E
+t1242667060
+s3198
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/mmintrin.h
+c000000004A1198340000000000009260
+t1242667060
+s37472
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/stdarg.h
+c000000004A11983400000000000010DD
+t1242667060
+s4317
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/stddef.h
+c000000004A1198340000000000003197
+t1242667060
+s12695
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/xmmintrin.h
+c000000004A119834000000000000BECA
+t1242667060
+s48842
+
+N/Users/niko/Documents/IPhone/SpeakHere/AudioViews/AQLevelMeter.h
+c000000004BA3EB7C0000000000000E6A
+t1269033852
+s3690
+i<UIKit/UIKit.h>
+i<AudioToolbox/AudioQueue.h>
+i"MeterTable.h"
+i"CAXException.h"
+
+N/Users/niko/Documents/IPhone/SpeakHere/AudioViews/AQLevelMeter.mm
+c000000004BA3EB7C0000000000002A7C
+t1269033852
+s10876
+i"AQLevelMeter.h"
+i"LevelMeter.h"
+i"GLLevelMeter.h"
+i"CAStreamBasicDescription.h"
+
+N/Users/niko/Documents/IPhone/SpeakHere/AudioViews/GLLevelMeter.h
+c000000004BA3EB7C0000000000000ACE
+t1269033852
+s2766
+i<UIKit/UIKit.h>
+i<OpenGLES/EAGL.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i"LevelMeter.h"
+
+N/Users/niko/Documents/IPhone/SpeakHere/AudioViews/GLLevelMeter.m
+c000000004BA3EB7C000000000000286D
+t1269033852
+s10349
+i<QuartzCore/QuartzCore.h>
+i<OpenGLES/EAGLDrawable.h>
+i"GLLevelMeter.h"
+
+N/Users/niko/Documents/IPhone/SpeakHere/AudioViews/LevelMeter.h
+c000000004BA3EB7C0000000000001095
+t1269033852
+s4245
+i<UIKit/UIKit.h>
+
+N/Users/niko/Documents/IPhone/SpeakHere/AudioViews/LevelMeter.m
+c000000004BA3EB7C000000000000219A
+t1269033852
+s8602
+i"LevelMeter.h"
+
+N/Users/niko/Documents/IPhone/SpeakHere/Classes/AQPlayer.h
+c000000004BA3EB7C00000000000011AA
+t1269033852
+s4522
+i<AudioToolbox/AudioToolbox.h>
+i"CAStreamBasicDescription.h"
+i"CAXException.h"
+
+N/Users/niko/Documents/IPhone/SpeakHere/Classes/AQPlayer.mm
+c000000004E12D28D00000000000027FB
+t1309856397
+s10235
+i"AQPlayer.h"
+
+N/Users/niko/Documents/IPhone/SpeakHere/Classes/AQRecorder.h
+c000000004E12D3130000000000000FE8
+t1309856531
+s4072
+i<AudioToolbox/AudioToolbox.h>
+i<Foundation/Foundation.h>
+i<libkern/OSAtomic.h>
+i"CAStreamBasicDescription.h"
+i"CAXException.h"
+i"SoundTouch.h"
+i"BPMDetect.h"
+
+N/Users/niko/Documents/IPhone/SpeakHere/Classes/AQRecorder.mm
+c000000004E12E1270000000000002E15
+t1309860135
+s11797
+i"AQRecorder.h"
+
+N/Users/niko/Documents/IPhone/SpeakHere/Classes/MeterTable.cpp
+c000000004BA3EB7C0000000000000CDF
+t1269033852
+s3295
+i"MeterTable.h"
+
+N/Users/niko/Documents/IPhone/SpeakHere/Classes/MeterTable.h
+c000000004BA3EB7C0000000000000D9B
+t1269033852
+s3483
+i<stdlib.h>
+i<stdio.h>
+i<math.h>
+
+N/Users/niko/Documents/IPhone/SpeakHere/Classes/SpeakHereAppDelegate.h
+c000000004BA3EB7C0000000000000AD7
+t1269033852
+s2775
+i<UIKit/UIKit.h>
+
+N/Users/niko/Documents/IPhone/SpeakHere/Classes/SpeakHereAppDelegate.m
+c000000004BA3EB7C0000000000000B5E
+t1269033852
+s2910
+i"SpeakHereAppDelegate.h"
+i"SpeakHereViewController.h"
+
+N/Users/niko/Documents/IPhone/SpeakHere/Classes/SpeakHereController.h
+c000000004E12D0A60000000000000D39
+t1309855910
+s3385
+i<Foundation/Foundation.h>
+i"AQLevelMeter.h"
+i"AQPlayer.h"
+i"AQRecorder.h"
+i"AQRecorder.h"
+
+N/Users/niko/Documents/IPhone/SpeakHere/Classes/SpeakHereController.mm
+c000000004E12D20D0000000000002926
+t1309856269
+s10534
+i"SpeakHereController.h"
+
+N/Users/niko/Documents/IPhone/SpeakHere/Classes/SpeakHereViewController.h
+c000000004BA3EB7C0000000000000A33
+t1269033852
+s2611
+i<UIKit/UIKit.h>
+
+N/Users/niko/Documents/IPhone/SpeakHere/Classes/SpeakHereViewController.m
+c000000004BA3EB7C0000000000000E49
+t1269033852
+s3657
+i"SpeakHereViewController.h"
+
+N/Users/niko/Documents/IPhone/SpeakHere/Default.png
+c0000000049C44A920000000000005C35
+t1237600914
+s23605
+
+N/Users/niko/Documents/IPhone/SpeakHere/MainWindow.xib
+c000000004990CADC000000000000232F
+t1234225884
+s9007
+
+N/Users/niko/Documents/IPhone/SpeakHere/SpeakHereViewController.xib
+c0000000049C44A920000000000004AA3
+t1237600914
+s19107
+
+N/Users/niko/Documents/IPhone/SpeakHere/SpeakHere_Prefix.pch
+c000000004BA3EB7C00000000000009EA
+t1269033852
+s2538
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/niko/Documents/IPhone/SpeakHere/build/Debug-iphonesimulator/SpeakHere.app
+t1309864495
+s306
+
+N/Users/niko/Documents/IPhone/SpeakHere/build/Debug-iphonesimulator/SpeakHere.app.dSYM
+t1309864495
+s102
+
+N/Users/niko/Documents/IPhone/SpeakHere/build/Debug-iphonesimulator/SpeakHere.app/Default.png
+t1309838308
+s23605
+
+N/Users/niko/Documents/IPhone/SpeakHere/build/Debug-iphonesimulator/SpeakHere.app/Info.plist
+t1309838308
+s628
+
+N/Users/niko/Documents/IPhone/SpeakHere/build/Debug-iphonesimulator/SpeakHere.app/MainWindow.nib
+t1309838308
+s1103
+
+N/Users/niko/Documents/IPhone/SpeakHere/build/Debug-iphonesimulator/SpeakHere.app/PkgInfo
+t1309838308
+s8
+
+N/Users/niko/Documents/IPhone/SpeakHere/build/Debug-iphonesimulator/SpeakHere.app/SpeakHere
+t1309864494
+s203176
+
+N/Users/niko/Documents/IPhone/SpeakHere/build/Debug-iphonesimulator/SpeakHere.app/SpeakHereViewController.nib
+t1309838308
+s2604
+
+N/Users/niko/Documents/IPhone/SpeakHere/build/Debug-iphonesimulator/SpeakHere.app/en.lproj/icon.png
+t1309838308
+s6103
+
+N/Users/niko/Documents/IPhone/SpeakHere/build/Debug-iphonesimulator/SpeakHere.app/en.lproj/soundbar_plate_mono.png
+t1309838308
+s8812
+
+N/Users/niko/Documents/IPhone/SpeakHere/build/Debug-iphonesimulator/SpeakHere.app/en.lproj/speaker_grill.png
+t1309838308
+s9652
+
+N/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/Objects-normal/i386/AAFilter.o
+t1309858765
+s12228
+
+N/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/Objects-normal/i386/AQLevelMeter.o
+t1309838310
+s82888
+
+N/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/Objects-normal/i386/AQPlayer.o
+t1309856400
+s40700
+
+N/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/Objects-normal/i386/AQRecorder.o
+t1309864494
+s48760
+
+N/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/Objects-normal/i386/BPMDetect.o
+t1309858765
+s17860
+
+N/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/Objects-normal/i386/CADebugMacros.o
+t1309838310
+s3340
+
+N/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/Objects-normal/i386/CAStreamBasicDescription.o
+t1309838310
+s31304
+
+N/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/Objects-normal/i386/CAXException.o
+t1309838310
+s3684
+
+N/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/Objects-normal/i386/FIFOSampleBuffer.o
+t1309858765
+s46468
+
+N/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/Objects-normal/i386/FIRFilter.o
+t1309858765
+s40644
+
+N/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/Objects-normal/i386/GLLevelMeter.o
+t1309838310
+s59940
+
+N/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/Objects-normal/i386/LevelMeter.o
+t1309838310
+s58672
+
+N/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/Objects-normal/i386/MeterTable.o
+t1309838310
+s7204
+
+N/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/Objects-normal/i386/PeakFinder.o
+t1309842601
+s9004
+
+N/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/Objects-normal/i386/RateTransposer.o
+t1309858766
+s73240
+
+N/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/Objects-normal/i386/SoundTouch.o
+t1309858766
+s71284
+
+N/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/Objects-normal/i386/SpeakHere.LinkFileList
+c000000004E129CA80000000000000CA2
+t1309842600
+s3234
+
+N/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/Objects-normal/i386/SpeakHereAppDelegate.o
+t1309838309
+s48552
+
+N/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/Objects-normal/i386/SpeakHereController.o
+t1309858765
+s86356
+
+N/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/Objects-normal/i386/SpeakHereViewController.o
+t1309838309
+s37448
+
+N/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/Objects-normal/i386/TDStretch.o
+t1309858766
+s74200
+
+N/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/Objects-normal/i386/cpu_detect_x86_gcc.o
+t1309858765
+s16204
+
+N/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/Objects-normal/i386/main.o
+t1309838309
+s6304
+
+N/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/Objects-normal/i386/mmx_optimized.o
+t1309858765
+s31876
+
+N/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/Objects-normal/i386/sse_optimized.o
+t1309858766
+s1520
+
+N/Users/niko/Documents/IPhone/SpeakHere/en.lproj/icon.png
+c00000000493DD8F800000000000017D7
+t1228790008
+s6103
+
+N/Users/niko/Documents/IPhone/SpeakHere/en.lproj/soundbar_plate_mono.png
+c00000000493DD8F8000000000000226C
+t1228790008
+s8812
+
+N/Users/niko/Documents/IPhone/SpeakHere/en.lproj/speaker_grill.png
+c00000000493DD8F800000000000025B4
+t1228790008
+s9652
+
+N/Users/niko/Documents/IPhone/SpeakHere/iPublicUtility/CADebugMacros.cpp
+c000000004BA3EB7C0000000000000C00
+t1269033852
+s3072
+i"CADebugMacros.h"
+i<stdio.h>
+i<stdarg.h>
+i<syslog.h>
+i<stdio.h>
+
+N/Users/niko/Documents/IPhone/SpeakHere/iPublicUtility/CADebugMacros.h
+c000000004BA3EB7C0000000000004C2D
+t1269033852
+s19501
+i<CoreAudio/CoreAudioTypes.h>
+i"CoreAudioTypes.h"
+i"CADebugPrintf.h"
+i<pthread.h>
+i"CAHostTimeBase.h"
+i"CAHostTimeBase.h"
+i"CADebugger.h"
+
+N/Users/niko/Documents/IPhone/SpeakHere/iPublicUtility/CAMath.h
+c000000004BA3EB7C0000000000000C57
+t1269033852
+s3159
+i<CoreAudio/CoreAudioTypes.h>
+i<CoreAudioTypes.h>
+
+N/Users/niko/Documents/IPhone/SpeakHere/iPublicUtility/CAStreamBasicDescription.cpp
+c000000004BA3EB7C0000000000004A29
+t1269033852
+s18985
+i"CAStreamBasicDescription.h"
+i"CAMath.h"
+i<CoreFoundation/CFByteOrder.h>
+i<CFByteOrder.h>
+i<stddef.h>
+i"CALogMacros.h"
+
+N/Users/niko/Documents/IPhone/SpeakHere/iPublicUtility/CAStreamBasicDescription.h
+c000000004BA3EB7C0000000000002ED5
+t1269033852
+s11989
+i<CoreAudio/CoreAudioTypes.h>
+i<CoreFoundation/CoreFoundation.h>
+i"CoreAudioTypes.h"
+i"CoreFoundation.h"
+i"CADebugMacros.h"
+i<string.h>
+i<stdio.h>
+
+N/Users/niko/Documents/IPhone/SpeakHere/iPublicUtility/CAXException.cpp
+c000000004BA3EB7C00000000000009DC
+t1269033852
+s2524
+i"CAXException.h"
+
+N/Users/niko/Documents/IPhone/SpeakHere/iPublicUtility/CAXException.h
+c000000004BA3EB7C0000000000001A33
+t1269033852
+s6707
+i<CoreFoundation/CoreFoundation.h>
+i<ConditionalMacros.h>
+i<CoreFoundation.h>
+i"CADebugMacros.h"
+i<ctype.h>
+i<stdio.h>
+i<string.h>
+
+N/Users/niko/Documents/IPhone/SpeakHere/main.m
+c000000004BA3EB7C0000000000000A29
+t1269033852
+s2601
+i<UIKit/UIKit.h>
+
+N/Users/niko/Documents/IPhone/SpeakHere/soundtouch/AAFilter.cpp
+c000000004E118F320000000000001465
+t1309773618
+s5221
+i<memory.h>
+i<assert.h>
+i<math.h>
+i<stdlib.h>
+i"AAFilter.h"
+i"FIRFilter.h"
+
+N/Users/niko/Documents/IPhone/SpeakHere/soundtouch/AAFilter.h
+c000000004E118EE50000000000000C0D
+t1309773541
+s3085
+i"STTypes.h"
+
+N/Users/niko/Documents/IPhone/SpeakHere/soundtouch/BPMDetect.cpp
+c000000004E118EE900000000000028DD
+t1309773545
+s10461
+i<math.h>
+i<assert.h>
+i<string.h>
+i"FIFOSampleBuffer.h"
+i"PeakFinder.h"
+i"BPMDetect.h"
+
+N/Users/niko/Documents/IPhone/SpeakHere/soundtouch/BPMDetect.h
+c000000004E118EEC000000000000192A
+t1309773548
+s6442
+i"STTypes.h"
+i"FIFOSampleBuffer.h"
+
+N/Users/niko/Documents/IPhone/SpeakHere/soundtouch/FIFOSampleBuffer.cpp
+c000000004E118EF90000000000002175
+t1309773561
+s8565
+i<stdlib.h>
+i<memory.h>
+i<string.h>
+i<assert.h>
+i<stdexcept>
+i"FIFOSampleBuffer.h"
+
+N/Users/niko/Documents/IPhone/SpeakHere/soundtouch/FIFOSampleBuffer.h
+c000000004E118EFC0000000000001C4E
+t1309773564
+s7246
+i"FIFOSamplePipe.h"
+
+N/Users/niko/Documents/IPhone/SpeakHere/soundtouch/FIFOSamplePipe.h
+c000000004E118EFF0000000000002028
+t1309773567
+s8232
+i<assert.h>
+i<stdlib.h>
+i"STTypes.h"
+
+N/Users/niko/Documents/IPhone/SpeakHere/soundtouch/FIRFilter.cpp
+c000000004E118F030000000000001FB7
+t1309773571
+s8119
+i<memory.h>
+i<assert.h>
+i<math.h>
+i<stdlib.h>
+i<stdexcept>
+i"FIRFilter.h"
+i"cpu_detect.h"
+
+N/Users/niko/Documents/IPhone/SpeakHere/soundtouch/FIRFilter.h
+c000000004E118F06000000000000149B
+t1309773574
+s5275
+i<stddef.h>
+i"STTypes.h"
+
+N/Users/niko/Documents/IPhone/SpeakHere/soundtouch/PeakFinder.cpp
+c000000004E118F0F0000000000001C42
+t1309773583
+s7234
+i<math.h>
+i<assert.h>
+i"PeakFinder.h"
+
+N/Users/niko/Documents/IPhone/SpeakHere/soundtouch/PeakFinder.h
+c000000004E118F120000000000001005
+t1309773586
+s4101
+
+N/Users/niko/Documents/IPhone/SpeakHere/soundtouch/RateTransposer.cpp
+c000000004E127208000000000000470A
+t1309831688
+s18186
+i<memory.h>
+i<assert.h>
+i<stdlib.h>
+i<stdio.h>
+i<stdexcept>
+i"RateTransposer.h"
+i"AAFilter.h"
+
+N/Users/niko/Documents/IPhone/SpeakHere/soundtouch/RateTransposer.h
+c000000004E1271F90000000000001642
+t1309831673
+s5698
+i<stddef.h>
+i"AAFilter.h"
+i"FIFOSamplePipe.h"
+i"FIFOSampleBuffer.h"
+i"STTypes.h"
+
+N/Users/niko/Documents/IPhone/SpeakHere/soundtouch/STTypes.h
+c000000004E12DBCB00000000000014C8
+t1309858763
+s5320
+i"soundtouch_config.h"
+
+N/Users/niko/Documents/IPhone/SpeakHere/soundtouch/SoundTouch.cpp
+c000000004E1272510000000000003A0F
+t1309831761
+s14863
+i<assert.h>
+i<stdlib.h>
+i<memory.h>
+i<math.h>
+i<stdexcept>
+i<stdio.h>
+i"SoundTouch.h"
+i"TDStretch.h"
+i"RateTransposer.h"
+i"cpu_detect.h"
+
+N/Users/niko/Documents/IPhone/SpeakHere/soundtouch/SoundTouch.h
+c000000004E12721D0000000000002997
+t1309831709
+s10647
+i"FIFOSamplePipe.h"
+i"STTypes.h"
+
+N/Users/niko/Documents/IPhone/SpeakHere/soundtouch/TDStretch.cpp
+c000000004E1272850000000000007F67
+t1309831813
+s32615
+i<string.h>
+i<limits.h>
+i<assert.h>
+i<math.h>
+i<float.h>
+i<stdexcept>
+i"STTypes.h"
+i"cpu_detect.h"
+i"TDStretch.h"
+i<stdio.h>
+i<stdio.h>
+
+N/Users/niko/Documents/IPhone/SpeakHere/soundtouch/TDStretch.h
+c000000004E12723B0000000000002AD0
+t1309831739
+s10960
+i<stddef.h>
+i"STTypes.h"
+i"RateTransposer.h"
+i"FIFOSamplePipe.h"
+
+N/Users/niko/Documents/IPhone/SpeakHere/soundtouch/cpu_detect.h
+c000000004B38CD400000000000000952
+t1262013760
+s2386
+i"STTypes.h"
+
+N/Users/niko/Documents/IPhone/SpeakHere/soundtouch/cpu_detect_x86_gcc.cpp
+c000000004E118EF500000000000013EE
+t1309773557
+s5102
+i<stdexcept>
+i<string>
+i"cpu_detect.h"
+i"STTypes.h"
+i<stdio.h>
+
+N/Users/niko/Documents/IPhone/SpeakHere/soundtouch/mmx_optimized.cpp
+c000000004E118F0A0000000000002C7F
+t1309773578
+s11391
+i"STTypes.h"
+i"TDStretch.h"
+i<mmintrin.h>
+i<limits.h>
+i<math.h>
+i"FIRFilter.h"
+
+N/Users/niko/Documents/IPhone/SpeakHere/soundtouch/soundtouch_config.h
+c000000004E12680F0000000000000904
+t1309829135
+s2308
+
+N/Users/niko/Documents/IPhone/SpeakHere/soundtouch/sse_optimized.cpp
+c000000004E118F2400000000000045CE
+t1309773604
+s17870
+i"cpu_detect.h"
+i"STTypes.h"
+i"TDStretch.h"
+i<xmmintrin.h>
+i<math.h>
+i"FIRFilter.h"
+
+N/var/folders/Ez/EzrAzSVrESe80I5kN5JvEE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SpeakHere_Prefix-buqyqlxbvqtijabonijqmkeenwrf/SpeakHere_Prefix.pch.gch
+t1309838309
+s15453392
+
+N/var/folders/Ez/EzrAzSVrESe80I5kN5JvEE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SpeakHere_Prefix-ccqlskjstkiuvydjrpebbfamyfgg/SpeakHere_Prefix.pch.gch
+t1309838309
+s16473168
+
+N/var/folders/Ez/EzrAzSVrESe80I5kN5JvEE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SpeakHere_Prefix-dwfpgibokpfscdberxwdhganxubt/SpeakHere_Prefix.pch.gch
+t1309838309
+s2515312
+
+NInfo.plist
+c00000000493DD8F80000000000000389
+t1228790008
+s905
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies331557294#331557294#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/Objects-normal/i386/AAFilter.o /Users/niko/Documents/IPhone/SpeakHere/soundtouch/AAFilter.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s331551565.346739
+e331551565.458485
+r1
+xCompileC
+xbuild/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/Objects-normal/i386/AAFilter.o
+x/Users/niko/Documents/IPhone/SpeakHere/soundtouch/AAFilter.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/niko/Documents/IPhone/SpeakHere/soundtouch/AAFilter.cpp331551565#331551565#0(0"0(0#0#62"/Users/niko/Documents/IPhone/SpeakHere/soundtouch/AAFilter.cpp8621265344#1942"    cd /Users/niko/Documents/IPhone/SpeakHere    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/SpeakHere-generated-files.hmap -I/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/SpeakHere-own-target-headers.hmap -I/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/SpeakHere-all-target-headers.hmap -iquote /Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/SpeakHere-project-headers.hmap -F/Users/niko/Documents/IPhone/SpeakHere/build/Debug-iphonesimulator -I/Users/niko/Documents/IPhone/SpeakHere/build/Debug-iphonesimulator/include -I/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/DerivedSources/i386 -I/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/DerivedSources -include /var/folders/Ez/EzrAzSVrESe80I5kN5JvEE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SpeakHere_Prefix-dwfpgibokpfscdberxwdhganxubt/SpeakHere_Prefix.pch -c /Users/niko/Documents/IPhone/SpeakHere/soundtouch/AAFilter.cpp -o /Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/Objects-normal/i386/AAFilter.o0#
+
+CCompileC build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/Objects-normal/i386/AQLevelMeter.o /Users/niko/Documents/IPhone/SpeakHere/AudioViews/AQLevelMeter.mm normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s331531109.867071
+e331531110.084180
+r1
+xCompileC
+xbuild/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/Objects-normal/i386/AQLevelMeter.o
+x/Users/niko/Documents/IPhone/SpeakHere/AudioViews/AQLevelMeter.mm
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/niko/Documents/IPhone/SpeakHere/AudioViews/AQLevelMeter.mm331531109#331531110#0(0"0(0#0#65"/Users/niko/Documents/IPhone/SpeakHere/AudioViews/AQLevelMeter.mm8621384288#2003"    cd /Users/niko/Documents/IPhone/SpeakHere    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/SpeakHere-generated-files.hmap -I/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/SpeakHere-own-target-headers.hmap -I/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/SpeakHere-all-target-headers.hmap -iquote /Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/SpeakHere-project-headers.hmap -F/Users/niko/Documents/IPhone/SpeakHere/build/Debug-iphonesimulator -I/Users/niko/Documents/IPhone/SpeakHere/build/Debug-iphonesimulator/include -I/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/DerivedSources/i386 -I/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/DerivedSources -include /var/folders/Ez/EzrAzSVrESe80I5kN5JvEE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SpeakHere_Prefix-ccqlskjstkiuvydjrpebbfamyfgg/SpeakHere_Prefix.pch -c /Users/niko/Documents/IPhone/SpeakHere/AudioViews/AQLevelMeter.mm -o /Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/Objects-normal/i386/AQLevelMeter.o0#
+
+CCompileC build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/Objects-normal/i386/AQPlayer.o /Users/niko/Documents/IPhone/SpeakHere/Classes/AQPlayer.mm normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s331549200.100249
+e331549200.310874
+r1
+xCompileC
+xbuild/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/Objects-normal/i386/AQPlayer.o
+x/Users/niko/Documents/IPhone/SpeakHere/Classes/AQPlayer.mm
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+o/Users/niko/Documents/IPhone/SpeakHere/Classes/AQPlayer.mm: In static member function 'static void AQPlayer::AQBufferCallback(void*, OpaqueAudioQueue*, AudioQueueBuffer*)':
+o/Users/niko/Documents/IPhone/SpeakHere/Classes/AQPlayer.mm:66: warning: format '%d' expects type 'int', but argument 2 has type 'OSStatus'
+lSLF07#2@66"Compile /Users/niko/Documents/IPhone/SpeakHere/Classes/AQPlayer.mm331549200#331549200#0(312"/Users/niko/Documents/IPhone/SpeakHere/Classes/AQPlayer.mm: In static member function 'static void AQPlayer::AQBufferCallback(void*, OpaqueAudioQueue*, AudioQueueBuffer*)':/Users/niko/Documents/IPhone/SpeakHere/Classes/AQPlayer.mm:66: warning: format '%d' expects type 'int', but argument 2 has type 'OSStatus'1(22@66"Format '%d' expects type 'int', but argument 2 has type 'OSStatus'331549200#173#139#0(6@58"/Users/niko/Documents/IPhone/SpeakHere/Classes/AQPlayer.mm331549197#66#0#66#0#56"format '*' expects type '*', but argument * has type '*'0(0#0#58"/Users/niko/Documents/IPhone/SpeakHere/Classes/AQPlayer.mm8604557728#1992"    cd /Users/niko/Documents/IPhone/SpeakHere    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/SpeakHere-generated-files.hmap -I/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/SpeakHere-own-target-headers.hmap -I/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/SpeakHere-all-target-headers.hmap -iquote /Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/SpeakHere-project-headers.hmap -F/Users/niko/Documents/IPhone/SpeakHere/build/Debug-iphonesimulator -I/Users/niko/Documents/IPhone/SpeakHere/build/Debug-iphonesimulator/include -I/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/DerivedSources/i386 -I/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/DerivedSources -include /var/folders/Ez/EzrAzSVrESe80I5kN5JvEE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SpeakHere_Prefix-ccqlskjstkiuvydjrpebbfamyfgg/SpeakHere_Prefix.pch -c /Users/niko/Documents/IPhone/SpeakHere/Classes/AQPlayer.mm -o /Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/Objects-normal/i386/AQPlayer.o0#
+
+CCompileC build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/Objects-normal/i386/AQRecorder.o /Users/niko/Documents/IPhone/SpeakHere/Classes/AQRecorder.mm normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s331557294.273718
+e331557294.729952
+r1
+xCompileC
+xbuild/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/Objects-normal/i386/AQRecorder.o
+x/Users/niko/Documents/IPhone/SpeakHere/Classes/AQRecorder.mm
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/niko/Documents/IPhone/SpeakHere/Classes/AQRecorder.mm331557294#331557294#0(0"0(0#0#60"/Users/niko/Documents/IPhone/SpeakHere/Classes/AQRecorder.mm7083932847239164928#1996"    cd /Users/niko/Documents/IPhone/SpeakHere    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/SpeakHere-generated-files.hmap -I/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/SpeakHere-own-target-headers.hmap -I/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/SpeakHere-all-target-headers.hmap -iquote /Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/SpeakHere-project-headers.hmap -F/Users/niko/Documents/IPhone/SpeakHere/build/Debug-iphonesimulator -I/Users/niko/Documents/IPhone/SpeakHere/build/Debug-iphonesimulator/include -I/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/DerivedSources/i386 -I/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/DerivedSources -include /var/folders/Ez/EzrAzSVrESe80I5kN5JvEE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SpeakHere_Prefix-ccqlskjstkiuvydjrpebbfamyfgg/SpeakHere_Prefix.pch -c /Users/niko/Documents/IPhone/SpeakHere/Classes/AQRecorder.mm -o /Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/Objects-normal/i386/AQRecorder.o0#
+
+CCompileC build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/Objects-normal/i386/BPMDetect.o /Users/niko/Documents/IPhone/SpeakHere/soundtouch/BPMDetect.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s331551565.379043
+e331551565.474693
+r1
+xCompileC
+xbuild/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/Objects-normal/i386/BPMDetect.o
+x/Users/niko/Documents/IPhone/SpeakHere/soundtouch/BPMDetect.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/niko/Documents/IPhone/SpeakHere/soundtouch/BPMDetect.cpp331551565#331551565#0(0"0(0#0#63"/Users/niko/Documents/IPhone/SpeakHere/soundtouch/BPMDetect.cpp8630494176#1944"    cd /Users/niko/Documents/IPhone/SpeakHere    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/SpeakHere-generated-files.hmap -I/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/SpeakHere-own-target-headers.hmap -I/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/SpeakHere-all-target-headers.hmap -iquote /Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/SpeakHere-project-headers.hmap -F/Users/niko/Documents/IPhone/SpeakHere/build/Debug-iphonesimulator -I/Users/niko/Documents/IPhone/SpeakHere/build/Debug-iphonesimulator/include -I/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/DerivedSources/i386 -I/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/DerivedSources -include /var/folders/Ez/EzrAzSVrESe80I5kN5JvEE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SpeakHere_Prefix-dwfpgibokpfscdberxwdhganxubt/SpeakHere_Prefix.pch -c /Users/niko/Documents/IPhone/SpeakHere/soundtouch/BPMDetect.cpp -o /Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/Objects-normal/i386/BPMDetect.o0#
+
+CCompileC build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/Objects-normal/i386/CADebugMacros.o /Users/niko/Documents/IPhone/SpeakHere/iPublicUtility/CADebugMacros.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s331531110.133857
+e331531110.188736
+r1
+xCompileC
+xbuild/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/Objects-normal/i386/CADebugMacros.o
+x/Users/niko/Documents/IPhone/SpeakHere/iPublicUtility/CADebugMacros.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/niko/Documents/IPhone/SpeakHere/iPublicUtility/CADebugMacros.cpp331531110#331531110#0(0"0(0#0#71"/Users/niko/Documents/IPhone/SpeakHere/iPublicUtility/CADebugMacros.cpp8603240192#1956"    cd /Users/niko/Documents/IPhone/SpeakHere    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/SpeakHere-generated-files.hmap -I/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/SpeakHere-own-target-headers.hmap -I/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/SpeakHere-all-target-headers.hmap -iquote /Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/SpeakHere-project-headers.hmap -F/Users/niko/Documents/IPhone/SpeakHere/build/Debug-iphonesimulator -I/Users/niko/Documents/IPhone/SpeakHere/build/Debug-iphonesimulator/include -I/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/DerivedSources/i386 -I/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/DerivedSources -include /var/folders/Ez/EzrAzSVrESe80I5kN5JvEE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SpeakHere_Prefix-dwfpgibokpfscdberxwdhganxubt/SpeakHere_Prefix.pch -c /Users/niko/Documents/IPhone/SpeakHere/iPublicUtility/CADebugMacros.cpp -o /Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/Objects-normal/i386/CADebugMacros.o0#
+
+CCompileC build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/Objects-normal/i386/CAStreamBasicDescription.o /Users/niko/Documents/IPhone/SpeakHere/iPublicUtility/CAStreamBasicDescription.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s331531110.188831
+e331531110.390120
+r1
+xCompileC
+xbuild/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/Objects-normal/i386/CAStreamBasicDescription.o
+x/Users/niko/Documents/IPhone/SpeakHere/iPublicUtility/CAStreamBasicDescription.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/niko/Documents/IPhone/SpeakHere/iPublicUtility/CAStreamBasicDescription.cpp331531110#331531110#0(0"0(0#0#82"/Users/niko/Documents/IPhone/SpeakHere/iPublicUtility/CAStreamBasicDescription.cpp8623140832#1978"    cd /Users/niko/Documents/IPhone/SpeakHere    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/SpeakHere-generated-files.hmap -I/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/SpeakHere-own-target-headers.hmap -I/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/SpeakHere-all-target-headers.hmap -iquote /Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/SpeakHere-project-headers.hmap -F/Users/niko/Documents/IPhone/SpeakHere/build/Debug-iphonesimulator -I/Users/niko/Documents/IPhone/SpeakHere/build/Debug-iphonesimulator/include -I/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/DerivedSources/i386 -I/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/DerivedSources -include /var/folders/Ez/EzrAzSVrESe80I5kN5JvEE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SpeakHere_Prefix-dwfpgibokpfscdberxwdhganxubt/SpeakHere_Prefix.pch -c /Users/niko/Documents/IPhone/SpeakHere/iPublicUtility/CAStreamBasicDescription.cpp -o /Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/Objects-normal/i386/CAStreamBasicDescription.o0#
+
+CCompileC build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/Objects-normal/i386/CAXException.o /Users/niko/Documents/IPhone/SpeakHere/iPublicUtility/CAXException.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s331531110.210429
+e331531110.353609
+r1
+xCompileC
+xbuild/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/Objects-normal/i386/CAXException.o
+x/Users/niko/Documents/IPhone/SpeakHere/iPublicUtility/CAXException.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/niko/Documents/IPhone/SpeakHere/iPublicUtility/CAXException.cpp331531110#331531110#0(0"0(0#0#70"/Users/niko/Documents/IPhone/SpeakHere/iPublicUtility/CAXException.cpp8622776288#1954"    cd /Users/niko/Documents/IPhone/SpeakHere    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/SpeakHere-generated-files.hmap -I/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/SpeakHere-own-target-headers.hmap -I/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/SpeakHere-all-target-headers.hmap -iquote /Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/SpeakHere-project-headers.hmap -F/Users/niko/Documents/IPhone/SpeakHere/build/Debug-iphonesimulator -I/Users/niko/Documents/IPhone/SpeakHere/build/Debug-iphonesimulator/include -I/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/DerivedSources/i386 -I/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/DerivedSources -include /var/folders/Ez/EzrAzSVrESe80I5kN5JvEE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SpeakHere_Prefix-dwfpgibokpfscdberxwdhganxubt/SpeakHere_Prefix.pch -c /Users/niko/Documents/IPhone/SpeakHere/iPublicUtility/CAXException.cpp -o /Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/Objects-normal/i386/CAXException.o0#
+
+CCompileC build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/Objects-normal/i386/FIFOSampleBuffer.o /Users/niko/Documents/IPhone/SpeakHere/soundtouch/FIFOSampleBuffer.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s331551565.474780
+e331551565.715832
+r1
+xCompileC
+xbuild/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/Objects-normal/i386/FIFOSampleBuffer.o
+x/Users/niko/Documents/IPhone/SpeakHere/soundtouch/FIFOSampleBuffer.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/niko/Documents/IPhone/SpeakHere/soundtouch/FIFOSampleBuffer.cpp331551565#331551565#0(0"0(0#0#70"/Users/niko/Documents/IPhone/SpeakHere/soundtouch/FIFOSampleBuffer.cpp8626804192#1958"    cd /Users/niko/Documents/IPhone/SpeakHere    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/SpeakHere-generated-files.hmap -I/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/SpeakHere-own-target-headers.hmap -I/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/SpeakHere-all-target-headers.hmap -iquote /Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/SpeakHere-project-headers.hmap -F/Users/niko/Documents/IPhone/SpeakHere/build/Debug-iphonesimulator -I/Users/niko/Documents/IPhone/SpeakHere/build/Debug-iphonesimulator/include -I/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/DerivedSources/i386 -I/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/DerivedSources -include /var/folders/Ez/EzrAzSVrESe80I5kN5JvEE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SpeakHere_Prefix-dwfpgibokpfscdberxwdhganxubt/SpeakHere_Prefix.pch -c /Users/niko/Documents/IPhone/SpeakHere/soundtouch/FIFOSampleBuffer.cpp -o /Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/Objects-normal/i386/FIFOSampleBuffer.o0#
+
+CCompileC build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/Objects-normal/i386/FIRFilter.o /Users/niko/Documents/IPhone/SpeakHere/soundtouch/FIRFilter.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s331551565.673400
+e331551565.951819
+r1
+xCompileC
+xbuild/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/Objects-normal/i386/FIRFilter.o
+x/Users/niko/Documents/IPhone/SpeakHere/soundtouch/FIRFilter.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+o/Users/niko/Documents/IPhone/SpeakHere/soundtouch/FIRFilter.cpp: In static member function 'static void* soundtouch::FIRFilter::operator new(size_t)':
+o/Users/niko/Documents/IPhone/SpeakHere/soundtouch/FIRFilter.cpp:226: warning: 'operator new' must not return NULL unless it is declared 'throw()' (or -fcheck-new is in effect)
+lSLF07#2@71"Compile /Users/niko/Documents/IPhone/SpeakHere/soundtouch/FIRFilter.cpp331551565#331551565#0(327"/Users/niko/Documents/IPhone/SpeakHere/soundtouch/FIRFilter.cpp: In static member function 'static void* soundtouch::FIRFilter::operator new(size_t)':/Users/niko/Documents/IPhone/SpeakHere/soundtouch/FIRFilter.cpp:226: warning: 'operator new' must not return NULL unless it is declared 'throw()' (or -fcheck-new is in effect)1(22@97"'operator new' must not return NULL unless it is declared 'throw()' (or -fcheck-new is in effect)331551565#151#176#0(6@63"/Users/niko/Documents/IPhone/SpeakHere/soundtouch/FIRFilter.cpp331466371#226#0#226#0#0"0(0#0#63"/Users/niko/Documents/IPhone/SpeakHere/soundtouch/FIRFilter.cpp8622617728#1944"    cd /Users/niko/Documents/IPhone/SpeakHere    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/SpeakHere-generated-files.hmap -I/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/SpeakHere-own-target-headers.hmap -I/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/SpeakHere-all-target-headers.hmap -iquote /Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/SpeakHere-project-headers.hmap -F/Users/niko/Documents/IPhone/SpeakHere/build/Debug-iphonesimulator -I/Users/niko/Documents/IPhone/SpeakHere/build/Debug-iphonesimulator/include -I/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/DerivedSources/i386 -I/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/DerivedSources -include /var/folders/Ez/EzrAzSVrESe80I5kN5JvEE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SpeakHere_Prefix-dwfpgibokpfscdberxwdhganxubt/SpeakHere_Prefix.pch -c /Users/niko/Documents/IPhone/SpeakHere/soundtouch/FIRFilter.cpp -o /Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/Objects-normal/i386/FIRFilter.o0#
+
+CCompileC build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/Objects-normal/i386/GLLevelMeter.o /Users/niko/Documents/IPhone/SpeakHere/AudioViews/GLLevelMeter.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s331531109.988969
+e331531110.133772
+r1
+xCompileC
+xbuild/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/Objects-normal/i386/GLLevelMeter.o
+x/Users/niko/Documents/IPhone/SpeakHere/AudioViews/GLLevelMeter.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/niko/Documents/IPhone/SpeakHere/AudioViews/GLLevelMeter.m331531109#331531110#0(0"0(0#0#64"/Users/niko/Documents/IPhone/SpeakHere/AudioViews/GLLevelMeter.m8620975456#1981"    cd /Users/niko/Documents/IPhone/SpeakHere    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/SpeakHere-generated-files.hmap -I/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/SpeakHere-own-target-headers.hmap -I/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/SpeakHere-all-target-headers.hmap -iquote /Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/SpeakHere-project-headers.hmap -F/Users/niko/Documents/IPhone/SpeakHere/build/Debug-iphonesimulator -I/Users/niko/Documents/IPhone/SpeakHere/build/Debug-iphonesimulator/include -I/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/DerivedSources/i386 -I/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/DerivedSources -include /var/folders/Ez/EzrAzSVrESe80I5kN5JvEE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SpeakHere_Prefix-buqyqlxbvqtijabonijqmkeenwrf/SpeakHere_Prefix.pch -c /Users/niko/Documents/IPhone/SpeakHere/AudioViews/GLLevelMeter.m -o /Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/Objects-normal/i386/GLLevelMeter.o0#
+
+CCompileC build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/Objects-normal/i386/LevelMeter.o /Users/niko/Documents/IPhone/SpeakHere/AudioViews/LevelMeter.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s331531110.084282
+e331531110.210345
+r1
+xCompileC
+xbuild/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/Objects-normal/i386/LevelMeter.o
+x/Users/niko/Documents/IPhone/SpeakHere/AudioViews/LevelMeter.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/niko/Documents/IPhone/SpeakHere/AudioViews/LevelMeter.m331531110#331531110#0(0"0(0#0#62"/Users/niko/Documents/IPhone/SpeakHere/AudioViews/LevelMeter.m8620675392#1977"    cd /Users/niko/Documents/IPhone/SpeakHere    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/SpeakHere-generated-files.hmap -I/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/SpeakHere-own-target-headers.hmap -I/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/SpeakHere-all-target-headers.hmap -iquote /Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/SpeakHere-project-headers.hmap -F/Users/niko/Documents/IPhone/SpeakHere/build/Debug-iphonesimulator -I/Users/niko/Documents/IPhone/SpeakHere/build/Debug-iphonesimulator/include -I/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/DerivedSources/i386 -I/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/DerivedSources -include /var/folders/Ez/EzrAzSVrESe80I5kN5JvEE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SpeakHere_Prefix-buqyqlxbvqtijabonijqmkeenwrf/SpeakHere_Prefix.pch -c /Users/niko/Documents/IPhone/SpeakHere/AudioViews/LevelMeter.m -o /Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/Objects-normal/i386/LevelMeter.o0#
+
+CCompileC build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/Objects-normal/i386/MeterTable.o /Users/niko/Documents/IPhone/SpeakHere/Classes/MeterTable.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s331531110.478389
+e331531110.536881
+r1
+xCompileC
+xbuild/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/Objects-normal/i386/MeterTable.o
+x/Users/niko/Documents/IPhone/SpeakHere/Classes/MeterTable.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/niko/Documents/IPhone/SpeakHere/Classes/MeterTable.cpp331531110#331531110#0(0"0(0#0#61"/Users/niko/Documents/IPhone/SpeakHere/Classes/MeterTable.cpp8622347776#1943"    cd /Users/niko/Documents/IPhone/SpeakHere    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/SpeakHere-generated-files.hmap -I/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/SpeakHere-own-target-headers.hmap -I/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/SpeakHere-all-target-headers.hmap -iquote /Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/SpeakHere-project-headers.hmap -F/Users/niko/Documents/IPhone/SpeakHere/build/Debug-iphonesimulator -I/Users/niko/Documents/IPhone/SpeakHere/build/Debug-iphonesimulator/include -I/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/DerivedSources/i386 -I/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/DerivedSources -include /var/folders/Ez/EzrAzSVrESe80I5kN5JvEE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SpeakHere_Prefix-dwfpgibokpfscdberxwdhganxubt/SpeakHere_Prefix.pch -c /Users/niko/Documents/IPhone/SpeakHere/Classes/MeterTable.cpp -o /Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/Objects-normal/i386/MeterTable.o0#
+
+CCompileC build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/Objects-normal/i386/PeakFinder.o /Users/niko/Documents/IPhone/SpeakHere/soundtouch/PeakFinder.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s331535401.437987
+e331535401.504595
+r1
+xCompileC
+xbuild/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/Objects-normal/i386/PeakFinder.o
+x/Users/niko/Documents/IPhone/SpeakHere/soundtouch/PeakFinder.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/niko/Documents/IPhone/SpeakHere/soundtouch/PeakFinder.cpp331535401#331535401#0(0"0(0#0#64"/Users/niko/Documents/IPhone/SpeakHere/soundtouch/PeakFinder.cpp8626745824#1946"    cd /Users/niko/Documents/IPhone/SpeakHere    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/SpeakHere-generated-files.hmap -I/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/SpeakHere-own-target-headers.hmap -I/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/SpeakHere-all-target-headers.hmap -iquote /Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/SpeakHere-project-headers.hmap -F/Users/niko/Documents/IPhone/SpeakHere/build/Debug-iphonesimulator -I/Users/niko/Documents/IPhone/SpeakHere/build/Debug-iphonesimulator/include -I/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/DerivedSources/i386 -I/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/DerivedSources -include /var/folders/Ez/EzrAzSVrESe80I5kN5JvEE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SpeakHere_Prefix-dwfpgibokpfscdberxwdhganxubt/SpeakHere_Prefix.pch -c /Users/niko/Documents/IPhone/SpeakHere/soundtouch/PeakFinder.cpp -o /Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/Objects-normal/i386/PeakFinder.o0#
+
+CCompileC build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/Objects-normal/i386/RateTransposer.o /Users/niko/Documents/IPhone/SpeakHere/soundtouch/RateTransposer.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s331551565.826263
+e331551566.136687
+r1
+xCompileC
+xbuild/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/Objects-normal/i386/RateTransposer.o
+x/Users/niko/Documents/IPhone/SpeakHere/soundtouch/RateTransposer.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+o/Users/niko/Documents/IPhone/SpeakHere/soundtouch/RateTransposer.cpp: In static member function 'static void* soundtouch::RateTransposer::operator new(size_t)':
+o/Users/niko/Documents/IPhone/SpeakHere/soundtouch/RateTransposer.cpp:112: warning: 'operator new' must not return NULL unless it is declared 'throw()' (or -fcheck-new is in effect)
+lSLF07#2@76"Compile /Users/niko/Documents/IPhone/SpeakHere/soundtouch/RateTransposer.cpp331551565#331551566#0(342"/Users/niko/Documents/IPhone/SpeakHere/soundtouch/RateTransposer.cpp: In static member function 'static void* soundtouch::RateTransposer::operator new(size_t)':/Users/niko/Documents/IPhone/SpeakHere/soundtouch/RateTransposer.cpp:112: warning: 'operator new' must not return NULL unless it is declared 'throw()' (or -fcheck-new is in effect)1(22@97"'operator new' must not return NULL unless it is declared 'throw()' (or -fcheck-new is in effect)331551566#161#181#0(6@68"/Users/niko/Documents/IPhone/SpeakHere/soundtouch/RateTransposer.cpp331524488#112#0#112#0#0"0(0#0#68"/Users/niko/Documents/IPhone/SpeakHere/soundtouch/RateTransposer.cpp8620830784#1954"    cd /Users/niko/Documents/IPhone/SpeakHere    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/SpeakHere-generated-files.hmap -I/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/SpeakHere-own-target-headers.hmap -I/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/SpeakHere-all-target-headers.hmap -iquote /Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/SpeakHere-project-headers.hmap -F/Users/niko/Documents/IPhone/SpeakHere/build/Debug-iphonesimulator -I/Users/niko/Documents/IPhone/SpeakHere/build/Debug-iphonesimulator/include -I/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/DerivedSources/i386 -I/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/DerivedSources -include /var/folders/Ez/EzrAzSVrESe80I5kN5JvEE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SpeakHere_Prefix-dwfpgibokpfscdberxwdhganxubt/SpeakHere_Prefix.pch -c /Users/niko/Documents/IPhone/SpeakHere/soundtouch/RateTransposer.cpp -o /Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/Objects-normal/i386/RateTransposer.o0#
+
+CCompileC build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/Objects-normal/i386/SoundTouch.o /Users/niko/Documents/IPhone/SpeakHere/soundtouch/SoundTouch.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s331551565.951904
+e331551566.223363
+r1
+xCompileC
+xbuild/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/Objects-normal/i386/SoundTouch.o
+x/Users/niko/Documents/IPhone/SpeakHere/soundtouch/SoundTouch.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/niko/Documents/IPhone/SpeakHere/soundtouch/SoundTouch.cpp331551565#331551566#0(0"0(0#0#64"/Users/niko/Documents/IPhone/SpeakHere/soundtouch/SoundTouch.cpp8628831072#1946"    cd /Users/niko/Documents/IPhone/SpeakHere    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/SpeakHere-generated-files.hmap -I/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/SpeakHere-own-target-headers.hmap -I/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/SpeakHere-all-target-headers.hmap -iquote /Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/SpeakHere-project-headers.hmap -F/Users/niko/Documents/IPhone/SpeakHere/build/Debug-iphonesimulator -I/Users/niko/Documents/IPhone/SpeakHere/build/Debug-iphonesimulator/include -I/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/DerivedSources/i386 -I/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/DerivedSources -include /var/folders/Ez/EzrAzSVrESe80I5kN5JvEE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SpeakHere_Prefix-dwfpgibokpfscdberxwdhganxubt/SpeakHere_Prefix.pch -c /Users/niko/Documents/IPhone/SpeakHere/soundtouch/SoundTouch.cpp -o /Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/Objects-normal/i386/SoundTouch.o0#
+
+CCompileC build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/Objects-normal/i386/SpeakHereAppDelegate.o /Users/niko/Documents/IPhone/SpeakHere/Classes/SpeakHereAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s331531109.735137
+e331531109.835908
+r1
+xCompileC
+xbuild/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/Objects-normal/i386/SpeakHereAppDelegate.o
+x/Users/niko/Documents/IPhone/SpeakHere/Classes/SpeakHereAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/niko/Documents/IPhone/SpeakHere/Classes/SpeakHereAppDelegate.m331531109#331531109#0(0"0(0#0#69"/Users/niko/Documents/IPhone/SpeakHere/Classes/SpeakHereAppDelegate.m8622254624#1994"    cd /Users/niko/Documents/IPhone/SpeakHere    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/SpeakHere-generated-files.hmap -I/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/SpeakHere-own-target-headers.hmap -I/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/SpeakHere-all-target-headers.hmap -iquote /Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/SpeakHere-project-headers.hmap -F/Users/niko/Documents/IPhone/SpeakHere/build/Debug-iphonesimulator -I/Users/niko/Documents/IPhone/SpeakHere/build/Debug-iphonesimulator/include -I/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/DerivedSources/i386 -I/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/DerivedSources -include /var/folders/Ez/EzrAzSVrESe80I5kN5JvEE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SpeakHere_Prefix-buqyqlxbvqtijabonijqmkeenwrf/SpeakHere_Prefix.pch -c /Users/niko/Documents/IPhone/SpeakHere/Classes/SpeakHereAppDelegate.m -o /Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/Objects-normal/i386/SpeakHereAppDelegate.o0#
+
+CCompileC build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/Objects-normal/i386/SpeakHereController.o /Users/niko/Documents/IPhone/SpeakHere/Classes/SpeakHereController.mm normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s331551565.101486
+e331551565.378957
+r1
+xCompileC
+xbuild/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/Objects-normal/i386/SpeakHereController.o
+x/Users/niko/Documents/IPhone/SpeakHere/Classes/SpeakHereController.mm
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+o/Users/niko/Documents/IPhone/SpeakHere/Classes/SpeakHereController.mm: In function 'void -[SpeakHereController awakeFromNib](SpeakHereController*, objc_selector*)':
+o/Users/niko/Documents/IPhone/SpeakHere/Classes/SpeakHereController.mm:259: warning: format '%d' expects type 'int', but argument 2 has type 'OSStatus'
+o/Users/niko/Documents/IPhone/SpeakHere/Classes/SpeakHereController.mm:267: warning: format '%d' expects type 'int', but argument 2 has type 'OSStatus'
+o/Users/niko/Documents/IPhone/SpeakHere/Classes/SpeakHereController.mm:273: warning: format '%d' expects type 'int', but argument 2 has type 'OSStatus'
+o/Users/niko/Documents/IPhone/SpeakHere/Classes/SpeakHereController.mm:278: warning: format '%d' expects type 'int', but argument 2 has type 'OSStatus'
+lSLF07#2@77"Compile /Users/niko/Documents/IPhone/SpeakHere/Classes/SpeakHereController.mm331551565#331551565#0(769"/Users/niko/Documents/IPhone/SpeakHere/Classes/SpeakHereController.mm: In function 'void -[SpeakHereController awakeFromNib](SpeakHereController*, objc_selector*)':/Users/niko/Documents/IPhone/SpeakHere/Classes/SpeakHereController.mm:259: warning: format '%d' expects type 'int', but argument 2 has type 'OSStatus'/Users/niko/Documents/IPhone/SpeakHere/Classes/SpeakHereController.mm:267: warning: format '%d' expects type 'int', but argument 2 has type 'OSStatus'/Users/niko/Documents/IPhone/SpeakHere/Classes/SpeakHereController.mm:273: warning: format '%d' expects type 'int', but argument 2 has type 'OSStatus'/Users/niko/Documents/IPhone/SpeakHere/Classes/SpeakHereController.mm:278: warning: format '%d' expects type 'int', but argument 2 has type 'OSStatus'4(22@66"Format '%d' expects type 'int', but argument 2 has type 'OSStatus'331551565#165#151#0(6@69"/Users/niko/Documents/IPhone/SpeakHere/Classes/SpeakHereController.mm331549069#259#0#259#0#56"format '*' expects type '*', but argument * has type '*'0(22@66"Format '%d' expects type 'int', but argument 2 has type 'OSStatus'331551565#316#151#0(6@69"/Users/niko/Documents/IPhone/SpeakHere/Classes/SpeakHereController.mm331549069#267#0#267#0#56"format '*' expects type '*', but argument * has type '*'0(22@66"Format '%d' expects type 'int', but argument 2 has type 'OSStatus'331551565#467#151#0(6@69"/Users/niko/Documents/IPhone/SpeakHere/Classes/SpeakHereController.mm331549069#273#0#273#0#56"format '*' expects type '*', but argument * has type '*'0(22@66"Format '%d' expects type 'int', but argument 2 has type 'OSStatus'331551565#618#151#0(6@69"/Users/niko/Documents/IPhone/SpeakHere/Classes/SpeakHereController.mm331549069#278#0#278#0#56"format '*' expects type '*', but argument * has type '*'0(0#0#69"/Users/niko/Documents/IPhone/SpeakHere/Classes/SpeakHereController.mm8626817920#2014"    cd /Users/niko/Documents/IPhone/SpeakHere    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/SpeakHere-generated-files.hmap -I/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/SpeakHere-own-target-headers.hmap -I/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/SpeakHere-all-target-headers.hmap -iquote /Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/SpeakHere-project-headers.hmap -F/Users/niko/Documents/IPhone/SpeakHere/build/Debug-iphonesimulator -I/Users/niko/Documents/IPhone/SpeakHere/build/Debug-iphonesimulator/include -I/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/DerivedSources/i386 -I/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/DerivedSources -include /var/folders/Ez/EzrAzSVrESe80I5kN5JvEE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SpeakHere_Prefix-ccqlskjstkiuvydjrpebbfamyfgg/SpeakHere_Prefix.pch -c /Users/niko/Documents/IPhone/SpeakHere/Classes/SpeakHereController.mm -o /Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/Objects-normal/i386/SpeakHereController.o0#
+
+CCompileC build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/Objects-normal/i386/SpeakHereViewController.o /Users/niko/Documents/IPhone/SpeakHere/Classes/SpeakHereViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s331531109.806782
+e331531109.866983
+r1
+xCompileC
+xbuild/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/Objects-normal/i386/SpeakHereViewController.o
+x/Users/niko/Documents/IPhone/SpeakHere/Classes/SpeakHereViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/niko/Documents/IPhone/SpeakHere/Classes/SpeakHereViewController.m331531109#331531109#0(0"0(0#0#72"/Users/niko/Documents/IPhone/SpeakHere/Classes/SpeakHereViewController.m8621996672#2000"    cd /Users/niko/Documents/IPhone/SpeakHere    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/SpeakHere-generated-files.hmap -I/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/SpeakHere-own-target-headers.hmap -I/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/SpeakHere-all-target-headers.hmap -iquote /Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/SpeakHere-project-headers.hmap -F/Users/niko/Documents/IPhone/SpeakHere/build/Debug-iphonesimulator -I/Users/niko/Documents/IPhone/SpeakHere/build/Debug-iphonesimulator/include -I/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/DerivedSources/i386 -I/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/DerivedSources -include /var/folders/Ez/EzrAzSVrESe80I5kN5JvEE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SpeakHere_Prefix-buqyqlxbvqtijabonijqmkeenwrf/SpeakHere_Prefix.pch -c /Users/niko/Documents/IPhone/SpeakHere/Classes/SpeakHereViewController.m -o /Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/Objects-normal/i386/SpeakHereViewController.o0#
+
+CCompileC build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/Objects-normal/i386/TDStretch.o /Users/niko/Documents/IPhone/SpeakHere/soundtouch/TDStretch.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s331551566.160206
+e331551566.427802
+r1
+xCompileC
+xbuild/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/Objects-normal/i386/TDStretch.o
+x/Users/niko/Documents/IPhone/SpeakHere/soundtouch/TDStretch.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+o/Users/niko/Documents/IPhone/SpeakHere/soundtouch/TDStretch.cpp: In static member function 'static void* soundtouch::TDStretch::operator new(size_t)':
+o/Users/niko/Documents/IPhone/SpeakHere/soundtouch/TDStretch.cpp:744: warning: 'operator new' must not return NULL unless it is declared 'throw()' (or -fcheck-new is in effect)
+lSLF07#2@71"Compile /Users/niko/Documents/IPhone/SpeakHere/soundtouch/TDStretch.cpp331551566#331551566#0(327"/Users/niko/Documents/IPhone/SpeakHere/soundtouch/TDStretch.cpp: In static member function 'static void* soundtouch::TDStretch::operator new(size_t)':/Users/niko/Documents/IPhone/SpeakHere/soundtouch/TDStretch.cpp:744: warning: 'operator new' must not return NULL unless it is declared 'throw()' (or -fcheck-new is in effect)1(22@97"'operator new' must not return NULL unless it is declared 'throw()' (or -fcheck-new is in effect)331551566#151#176#0(6@63"/Users/niko/Documents/IPhone/SpeakHere/soundtouch/TDStretch.cpp331524613#744#0#744#0#0"0(0#0#63"/Users/niko/Documents/IPhone/SpeakHere/soundtouch/TDStretch.cpp8623858208#1944"    cd /Users/niko/Documents/IPhone/SpeakHere    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/SpeakHere-generated-files.hmap -I/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/SpeakHere-own-target-headers.hmap -I/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/SpeakHere-all-target-headers.hmap -iquote /Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/SpeakHere-project-headers.hmap -F/Users/niko/Documents/IPhone/SpeakHere/build/Debug-iphonesimulator -I/Users/niko/Documents/IPhone/SpeakHere/build/Debug-iphonesimulator/include -I/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/DerivedSources/i386 -I/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/DerivedSources -include /var/folders/Ez/EzrAzSVrESe80I5kN5JvEE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SpeakHere_Prefix-dwfpgibokpfscdberxwdhganxubt/SpeakHere_Prefix.pch -c /Users/niko/Documents/IPhone/SpeakHere/soundtouch/TDStretch.cpp -o /Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/Objects-normal/i386/TDStretch.o0#
+
+CCompileC build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/Objects-normal/i386/cpu_detect_x86_gcc.o /Users/niko/Documents/IPhone/SpeakHere/soundtouch/cpu_detect_x86_gcc.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s331551565.458578
+e331551565.673319
+r1
+xCompileC
+xbuild/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/Objects-normal/i386/cpu_detect_x86_gcc.o
+x/Users/niko/Documents/IPhone/SpeakHere/soundtouch/cpu_detect_x86_gcc.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/niko/Documents/IPhone/SpeakHere/soundtouch/cpu_detect_x86_gcc.cpp331551565#331551565#0(0"0(0#0#72"/Users/niko/Documents/IPhone/SpeakHere/soundtouch/cpu_detect_x86_gcc.cpp8627266016#1962"    cd /Users/niko/Documents/IPhone/SpeakHere    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/SpeakHere-generated-files.hmap -I/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/SpeakHere-own-target-headers.hmap -I/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/SpeakHere-all-target-headers.hmap -iquote /Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/SpeakHere-project-headers.hmap -F/Users/niko/Documents/IPhone/SpeakHere/build/Debug-iphonesimulator -I/Users/niko/Documents/IPhone/SpeakHere/build/Debug-iphonesimulator/include -I/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/DerivedSources/i386 -I/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/DerivedSources -include /var/folders/Ez/EzrAzSVrESe80I5kN5JvEE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SpeakHere_Prefix-dwfpgibokpfscdberxwdhganxubt/SpeakHere_Prefix.pch -c /Users/niko/Documents/IPhone/SpeakHere/soundtouch/cpu_detect_x86_gcc.cpp -o /Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/Objects-normal/i386/cpu_detect_x86_gcc.o0#
+
+CCompileC build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/Objects-normal/i386/main.o /Users/niko/Documents/IPhone/SpeakHere/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s331531109.734311
+e331531109.806654
+r1
+xCompileC
+xbuild/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/Objects-normal/i386/main.o
+x/Users/niko/Documents/IPhone/SpeakHere/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@53"Compile /Users/niko/Documents/IPhone/SpeakHere/main.m331531109#331531109#0(0"0(0#0#45"/Users/niko/Documents/IPhone/SpeakHere/main.m8622731904#1954"    cd /Users/niko/Documents/IPhone/SpeakHere    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/SpeakHere-generated-files.hmap -I/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/SpeakHere-own-target-headers.hmap -I/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/SpeakHere-all-target-headers.hmap -iquote /Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/SpeakHere-project-headers.hmap -F/Users/niko/Documents/IPhone/SpeakHere/build/Debug-iphonesimulator -I/Users/niko/Documents/IPhone/SpeakHere/build/Debug-iphonesimulator/include -I/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/DerivedSources/i386 -I/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/DerivedSources -include /var/folders/Ez/EzrAzSVrESe80I5kN5JvEE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SpeakHere_Prefix-buqyqlxbvqtijabonijqmkeenwrf/SpeakHere_Prefix.pch -c /Users/niko/Documents/IPhone/SpeakHere/main.m -o /Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/Objects-normal/i386/main.o0#
+
+CCompileC build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/Objects-normal/i386/mmx_optimized.o /Users/niko/Documents/IPhone/SpeakHere/soundtouch/mmx_optimized.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s331551565.715914
+e331551565.826085
+r1
+xCompileC
+xbuild/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/Objects-normal/i386/mmx_optimized.o
+x/Users/niko/Documents/IPhone/SpeakHere/soundtouch/mmx_optimized.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/niko/Documents/IPhone/SpeakHere/soundtouch/mmx_optimized.cpp331551565#331551565#0(0"0(0#0#67"/Users/niko/Documents/IPhone/SpeakHere/soundtouch/mmx_optimized.cpp8621601664#1952"    cd /Users/niko/Documents/IPhone/SpeakHere    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/SpeakHere-generated-files.hmap -I/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/SpeakHere-own-target-headers.hmap -I/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/SpeakHere-all-target-headers.hmap -iquote /Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/SpeakHere-project-headers.hmap -F/Users/niko/Documents/IPhone/SpeakHere/build/Debug-iphonesimulator -I/Users/niko/Documents/IPhone/SpeakHere/build/Debug-iphonesimulator/include -I/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/DerivedSources/i386 -I/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/DerivedSources -include /var/folders/Ez/EzrAzSVrESe80I5kN5JvEE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SpeakHere_Prefix-dwfpgibokpfscdberxwdhganxubt/SpeakHere_Prefix.pch -c /Users/niko/Documents/IPhone/SpeakHere/soundtouch/mmx_optimized.cpp -o /Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/Objects-normal/i386/mmx_optimized.o0#
+
+CCompileC build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/Objects-normal/i386/sse_optimized.o /Users/niko/Documents/IPhone/SpeakHere/soundtouch/sse_optimized.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s331551566.136776
+e331551566.160121
+r1
+xCompileC
+xbuild/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/Objects-normal/i386/sse_optimized.o
+x/Users/niko/Documents/IPhone/SpeakHere/soundtouch/sse_optimized.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/niko/Documents/IPhone/SpeakHere/soundtouch/sse_optimized.cpp331551566#331551566#0(0"0(0#0#67"/Users/niko/Documents/IPhone/SpeakHere/soundtouch/sse_optimized.cpp8624389184#1952"    cd /Users/niko/Documents/IPhone/SpeakHere    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/SpeakHere-generated-files.hmap -I/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/SpeakHere-own-target-headers.hmap -I/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/SpeakHere-all-target-headers.hmap -iquote /Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/SpeakHere-project-headers.hmap -F/Users/niko/Documents/IPhone/SpeakHere/build/Debug-iphonesimulator -I/Users/niko/Documents/IPhone/SpeakHere/build/Debug-iphonesimulator/include -I/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/DerivedSources/i386 -I/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/DerivedSources -include /var/folders/Ez/EzrAzSVrESe80I5kN5JvEE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SpeakHere_Prefix-dwfpgibokpfscdberxwdhganxubt/SpeakHere_Prefix.pch -c /Users/niko/Documents/IPhone/SpeakHere/soundtouch/sse_optimized.cpp -o /Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/Objects-normal/i386/sse_optimized.o0#
+
+CCompileXIB /Users/niko/Documents/IPhone/SpeakHere/MainWindow.xib
+s331531108.103176
+e331531108.492747
+r1
+xCompileXIB
+x/Users/niko/Documents/IPhone/SpeakHere/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib331531108#331531108#0(0"0(0#0#53"/Users/niko/Documents/IPhone/SpeakHere/MainWindow.xib8624506624#572"    cd /Users/niko/Documents/IPhone/SpeakHere    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/niko/Documents/IPhone/SpeakHere/build/Debug-iphonesimulator/SpeakHere.app/MainWindow.nib /Users/niko/Documents/IPhone/SpeakHere/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/niko/Documents/IPhone/SpeakHere/SpeakHereViewController.xib
+s331531108.103827
+e331531108.585479
+r1
+xCompileXIB
+x/Users/niko/Documents/IPhone/SpeakHere/SpeakHereViewController.xib
+lSLF07#2@38"CompileXIB SpeakHereViewController.xib331531108#331531108#0(0"0(0#0#66"/Users/niko/Documents/IPhone/SpeakHere/SpeakHereViewController.xib8624366080#598"    cd /Users/niko/Documents/IPhone/SpeakHere    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/niko/Documents/IPhone/SpeakHere/build/Debug-iphonesimulator/SpeakHere.app/SpeakHereViewController.nib /Users/niko/Documents/IPhone/SpeakHere/SpeakHereViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCpResource build/Debug-iphonesimulator/SpeakHere.app/Default.png Default.png
+s331531108.494879
+e331531108.527605
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SpeakHere.app/Default.png
+xDefault.png
+lSLF07#2@16"Copy Default.png331531108#331531108#0(0"0(0#0#50"/Users/niko/Documents/IPhone/SpeakHere/Default.png8622714720#471"    cd /Users/niko/Documents/IPhone/SpeakHere    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/niko/Documents/IPhone/SpeakHere/Default.png /Users/niko/Documents/IPhone/SpeakHere/build/Debug-iphonesimulator/SpeakHere.app0#
+
+CCpResource build/Debug-iphonesimulator/SpeakHere.app/en.lproj/icon.png en.lproj/icon.png
+s331531108.494285
+e331531108.527498
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SpeakHere.app/en.lproj/icon.png
+xen.lproj/icon.png
+lSLF07#2@22"Copy en.lproj/icon.png331531108#331531108#0(0"0(0#0#56"/Users/niko/Documents/IPhone/SpeakHere/en.lproj/icon.png8622912128#486"    cd /Users/niko/Documents/IPhone/SpeakHere    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/niko/Documents/IPhone/SpeakHere/en.lproj/icon.png /Users/niko/Documents/IPhone/SpeakHere/build/Debug-iphonesimulator/SpeakHere.app/en.lproj0#
+
+CCpResource build/Debug-iphonesimulator/SpeakHere.app/en.lproj/soundbar_plate_mono.png en.lproj/soundbar_plate_mono.png
+s331531108.493663
+e331531108.527389
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SpeakHere.app/en.lproj/soundbar_plate_mono.png
+xen.lproj/soundbar_plate_mono.png
+lSLF07#2@37"Copy en.lproj/soundbar_plate_mono.png331531108#331531108#0(0"0(0#0#71"/Users/niko/Documents/IPhone/SpeakHere/en.lproj/soundbar_plate_mono.png8623083840#501"    cd /Users/niko/Documents/IPhone/SpeakHere    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/niko/Documents/IPhone/SpeakHere/en.lproj/soundbar_plate_mono.png /Users/niko/Documents/IPhone/SpeakHere/build/Debug-iphonesimulator/SpeakHere.app/en.lproj0#
+
+CCpResource build/Debug-iphonesimulator/SpeakHere.app/en.lproj/speaker_grill.png en.lproj/speaker_grill.png
+s331531108.492824
+e331531108.527250
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SpeakHere.app/en.lproj/speaker_grill.png
+xen.lproj/speaker_grill.png
+lSLF07#2@31"Copy en.lproj/speaker_grill.png331531108#331531108#0(0"0(0#0#65"/Users/niko/Documents/IPhone/SpeakHere/en.lproj/speaker_grill.png8623215104#495"    cd /Users/niko/Documents/IPhone/SpeakHere    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/niko/Documents/IPhone/SpeakHere/en.lproj/speaker_grill.png /Users/niko/Documents/IPhone/SpeakHere/build/Debug-iphonesimulator/SpeakHere.app/en.lproj0#
+
+CGenerateDSYMFile /Users/niko/Documents/IPhone/SpeakHere/build/Debug-iphonesimulator/SpeakHere.app.dSYM /Users/niko/Documents/IPhone/SpeakHere/build/Debug-iphonesimulator/SpeakHere.app/SpeakHere
+s331557294.997088
+e331557295.078218
+r1
+xGenerateDSYMFile
+x/Users/niko/Documents/IPhone/SpeakHere/build/Debug-iphonesimulator/SpeakHere.app.dSYM
+x/Users/niko/Documents/IPhone/SpeakHere/build/Debug-iphonesimulator/SpeakHere.app/SpeakHere
+lSLF07#2@115"GenerateDSYMFile build/Debug-iphonesimulator/SpeakHere.app.dSYM build/Debug-iphonesimulator/SpeakHere.app/SpeakHere331557294#331557295#0(0"0(0#0#90"/Users/niko/Documents/IPhone/SpeakHere/build/Debug-iphonesimulator/SpeakHere.app/SpeakHere8607556896#389"    cd /Users/niko/Documents/IPhone/SpeakHere    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/niko/Documents/IPhone/SpeakHere/build/Debug-iphonesimulator/SpeakHere.app/SpeakHere -o /Users/niko/Documents/IPhone/SpeakHere/build/Debug-iphonesimulator/SpeakHere.app.dSYM0#
+
+CLd /Users/niko/Documents/IPhone/SpeakHere/build/Debug-iphonesimulator/SpeakHere.app/SpeakHere normal i386
+s331557294.730029
+e331557294.996999
+r1
+xLd
+x/Users/niko/Documents/IPhone/SpeakHere/build/Debug-iphonesimulator/SpeakHere.app/SpeakHere
+xnormal
+xi386
+lSLF07#2@95"Link /Users/niko/Documents/IPhone/SpeakHere/build/Debug-iphonesimulator/SpeakHere.app/SpeakHere331557294#331557294#0(0"0(0#0#0"8597774880#1002"    cd /Users/niko/Documents/IPhone/SpeakHere    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/g++-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/niko/Documents/IPhone/SpeakHere/build/Debug-iphonesimulator -F/Users/niko/Documents/IPhone/SpeakHere/build/Debug-iphonesimulator -filelist /Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/Objects-normal/i386/SpeakHere.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework AudioToolbox -framework CoreFoundation -framework OpenGLES -framework QuartzCore -o /Users/niko/Documents/IPhone/SpeakHere/build/Debug-iphonesimulator/SpeakHere.app/SpeakHere0#
+
+CProcessInfoPlistFile /Users/niko/Documents/IPhone/SpeakHere/build/Debug-iphonesimulator/SpeakHere.app/Info.plist Info.plist
+s331531108.095499
+e331531108.103103
+r1
+xProcessInfoPlistFile
+x/Users/niko/Documents/IPhone/SpeakHere/build/Debug-iphonesimulator/SpeakHere.app/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist331531108#331531108#0(0"0(0#0#49"/Users/niko/Documents/IPhone/SpeakHere/Info.plist8625185024#475"    cd /Users/niko/Documents/IPhone/SpeakHere    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Info.plist -genpkginfo /Users/niko/Documents/IPhone/SpeakHere/build/Debug-iphonesimulator/SpeakHere.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/niko/Documents/IPhone/SpeakHere/build/Debug-iphonesimulator/SpeakHere.app/Info.plist0#
+
+CProcessPCH /var/folders/Ez/EzrAzSVrESe80I5kN5JvEE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SpeakHere_Prefix-buqyqlxbvqtijabonijqmkeenwrf/SpeakHere_Prefix.pch.gch SpeakHere_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s331531108.585583
+e331531109.528133
+r1
+xProcessPCH
+x/var/folders/Ez/EzrAzSVrESe80I5kN5JvEE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SpeakHere_Prefix-buqyqlxbvqtijabonijqmkeenwrf/SpeakHere_Prefix.pch.gch
+xSpeakHere_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile SpeakHere_Prefix.pch331531108#331531109#0(0"0(0#0#59"/Users/niko/Documents/IPhone/SpeakHere/SpeakHere_Prefix.pch8622224320#1844"    cd /Users/niko/Documents/IPhone/SpeakHere    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/SpeakHere-generated-files.hmap -I/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/SpeakHere-own-target-headers.hmap -I/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/SpeakHere-all-target-headers.hmap -iquote /Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/SpeakHere-project-headers.hmap -F/Users/niko/Documents/IPhone/SpeakHere/build/Debug-iphonesimulator -I/Users/niko/Documents/IPhone/SpeakHere/build/Debug-iphonesimulator/include -I/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/DerivedSources/i386 -I/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/DerivedSources -c /Users/niko/Documents/IPhone/SpeakHere/SpeakHere_Prefix.pch -o /var/folders/Ez/EzrAzSVrESe80I5kN5JvEE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SpeakHere_Prefix-buqyqlxbvqtijabonijqmkeenwrf/SpeakHere_Prefix.pch.gch0#
+
+CProcessPCH++ /var/folders/Ez/EzrAzSVrESe80I5kN5JvEE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SpeakHere_Prefix-ccqlskjstkiuvydjrpebbfamyfgg/SpeakHere_Prefix.pch.gch SpeakHere_Prefix.pch normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s331531108.586461
+e331531109.734193
+r1
+xProcessPCH++
+x/var/folders/Ez/EzrAzSVrESe80I5kN5JvEE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SpeakHere_Prefix-ccqlskjstkiuvydjrpebbfamyfgg/SpeakHere_Prefix.pch.gch
+xSpeakHere_Prefix.pch
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile SpeakHere_Prefix.pch331531108#331531109#0(0"0(0#0#59"/Users/niko/Documents/IPhone/SpeakHere/SpeakHere_Prefix.pch8622013504#1865"    cd /Users/niko/Documents/IPhone/SpeakHere    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c++-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/SpeakHere-generated-files.hmap -I/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/SpeakHere-own-target-headers.hmap -I/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/SpeakHere-all-target-headers.hmap -iquote /Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/SpeakHere-project-headers.hmap -F/Users/niko/Documents/IPhone/SpeakHere/build/Debug-iphonesimulator -I/Users/niko/Documents/IPhone/SpeakHere/build/Debug-iphonesimulator/include -I/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/DerivedSources/i386 -I/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/DerivedSources -c /Users/niko/Documents/IPhone/SpeakHere/SpeakHere_Prefix.pch -o /var/folders/Ez/EzrAzSVrESe80I5kN5JvEE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SpeakHere_Prefix-ccqlskjstkiuvydjrpebbfamyfgg/SpeakHere_Prefix.pch.gch0#
+
+CProcessPCH++ /var/folders/Ez/EzrAzSVrESe80I5kN5JvEE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SpeakHere_Prefix-dwfpgibokpfscdberxwdhganxubt/SpeakHere_Prefix.pch.gch SpeakHere_Prefix.pch normal i386 c++ com.apple.compilers.gcc.4_2
+s331531109.528234
+e331531109.589532
+r1
+xProcessPCH++
+x/var/folders/Ez/EzrAzSVrESe80I5kN5JvEE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SpeakHere_Prefix-dwfpgibokpfscdberxwdhganxubt/SpeakHere_Prefix.pch.gch
+xSpeakHere_Prefix.pch
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile SpeakHere_Prefix.pch331531109#331531109#0(0"0(0#0#59"/Users/niko/Documents/IPhone/SpeakHere/SpeakHere_Prefix.pch8624296352#1811"    cd /Users/niko/Documents/IPhone/SpeakHere    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/SpeakHere-generated-files.hmap -I/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/SpeakHere-own-target-headers.hmap -I/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/SpeakHere-all-target-headers.hmap -iquote /Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/SpeakHere-project-headers.hmap -F/Users/niko/Documents/IPhone/SpeakHere/build/Debug-iphonesimulator -I/Users/niko/Documents/IPhone/SpeakHere/build/Debug-iphonesimulator/include -I/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/DerivedSources/i386 -I/Users/niko/Documents/IPhone/SpeakHere/build/SpeakHere.build/Debug-iphonesimulator/SpeakHere.build/DerivedSources -c /Users/niko/Documents/IPhone/SpeakHere/SpeakHere_Prefix.pch -o /var/folders/Ez/EzrAzSVrESe80I5kN5JvEE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SpeakHere_Prefix-dwfpgibokpfscdberxwdhganxubt/SpeakHere_Prefix.pch.gch0#
+
+CTouch /Users/niko/Documents/IPhone/SpeakHere/build/Debug-iphonesimulator/SpeakHere.app
+s331557295.078295
+e331557295.089817
+r1
+xTouch
+x/Users/niko/Documents/IPhone/SpeakHere/build/Debug-iphonesimulator/SpeakHere.app
+lSLF07#2@86"Touch /Users/niko/Documents/IPhone/SpeakHere/build/Debug-iphonesimulator/SpeakHere.app331557295#331557295#0(0"0(0#0#0"8608597024#280"    cd /Users/niko/Documents/IPhone/SpeakHere    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/niko/Documents/IPhone/SpeakHere/build/Debug-iphonesimulator/SpeakHere.app0#
+
